@@ -110,8 +110,8 @@ header.masthead .masthead-content .masthead-subheading{
 }
 
 .py-3 {
-     -webkit-box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.1) !important;
-    box-shadow: 0px 10px 30px 0px rgba(0, 0, 0,0.1) !important;
+     -webkit-box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.3) !important;
+    box-shadow: 0px 10px 30px 0px rgba(0, 0, 0,0.3) !important;
 }
 
 .card {
